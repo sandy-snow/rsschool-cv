@@ -5,7 +5,7 @@
 * Telegram: @dashlavash
 * GitHub
 ## About me
-
+Mathematics and computer science teacher transitioning into tech. Started with Python, then moved to frontend development.
 ## Skills
 * HTML
 * CSS
@@ -13,7 +13,7 @@
 * Python (Basic)
 * Git
 ## Code Example
-
+in process...
 ## Education & Courses
 * Higher pedagogical education (math/IT)
 * "Python Generation": course for begginers
